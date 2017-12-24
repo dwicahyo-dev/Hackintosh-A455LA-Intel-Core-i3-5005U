@@ -171,3 +171,4 @@ Method (_Q0F, 0, NotSerialized)
 - https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
 - http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master
 - Google is your best friend.
+- Hackintosh Indonesia.
