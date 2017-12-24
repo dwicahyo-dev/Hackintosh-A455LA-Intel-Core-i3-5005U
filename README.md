@@ -41,7 +41,6 @@ Asus A455LA-WX667D Hackintosh
 **BIOS Configuration**
 
 Item | Setting 
---- | ---
-- | -
-1 | 2 
+---  | ---
+1    |   3
 
