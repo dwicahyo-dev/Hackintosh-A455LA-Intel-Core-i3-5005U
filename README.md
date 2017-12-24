@@ -3,6 +3,13 @@ Asus A455LA-WX667D Hackintosh
 
 
 **Summary**
+
+## Languages:
+
+- **English**
+- **Bahasa Indonesia**
+
+
 -------
 **Specs :**
 
