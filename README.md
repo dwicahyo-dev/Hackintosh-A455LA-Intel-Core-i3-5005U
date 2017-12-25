@@ -58,7 +58,7 @@ VT-d | Disabled
 Graphics Configuration -> DVMT Pre-Allocation | 64M
 USB Configuration -> XHCI Pre-Boot Mode | Smart Auto / Enabled
 SATA Mode | AHCI
-Boot -> Launch CSM | Enabled
+Boot -> Launch CSM | Enabled (For Reducing boot graphics glitch)
 
 -------------
 **Create USB Installer**
