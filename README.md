@@ -105,7 +105,7 @@ Boot -> Launch CSM | Enabled
 
 3. Open `/Volumes/EFI/Clover/` , Copy and Replace the entire `EFI/CLOVER` Folder in the ESP of your USB Drive with `EFI/CLOVER` folder in this repository.
 
-4. Open `EFI/CLOVER/config.plist` in the ESP of your USB Drive. Run Clover Configurator included in the `Tools/` folder in the repository. Generate Serial Number, BoardSerialNumber, SmUUID in SMBIOS tab.
+4. Open `EFI/CLOVER/config.plist` in the ESP of your USB Drive. Run Clover Configurator included in the `Tools/` folder in the repository. Use Macbook Air 6,2 / Macbook Pro 12,1. Generate Serial Number, BoardSerialNumber, SmUUID in SMBIOS tab.
 
 5. Also copy Clover Bootloader installer .pkg file  & other files you need to your install macOS USB  for Post-installation.
 
@@ -213,7 +213,7 @@ Memasang Bootloader Clover pada USB Installer
 
 3. Open / Volumes / EFI / Clover /, Copy dan Ganti Seluruh Folder EFI / CLOVER di ESP dari USB Drive Anda dengan folder EFI / CLOVER dalam repositori ini.
 
-4. Buka EFI / CLOVER / config.plist di ESP USB Drive Anda. Jalankan Clover Configurator yang disertakan dalam Tools / folder di repositori. Buat Serial Number, BoardSerialNumber, SmUUID di tab SMBIOS.
+4. Buka EFI / CLOVER / config.plist di ESP USB Drive Anda. Jalankan Clover Configurator yang disertakan dalam Tools / folder di repositori. Pilih Macbook Air 6,2 / Macbook Pro 12,1. Buat Serial Number, BoardSerialNumber, SmUUID di tab SMBIOS.
 
 5. Juga copy file installer Clover Bootloader .pkg & file lainnya yang Anda perlukan untuk menginstal macos USB untuk Post-installation.
 
